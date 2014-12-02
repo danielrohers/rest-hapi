@@ -1,0 +1,27 @@
+{
+  "name": "rest-hapi",
+  "version": "1.0.0",
+  "description": "REST API example with Hapi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrohers/rest-hapi.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Daniel Rohers Moura",
+  "bugs": {
+    "url": "https://github.com/danielrohers/rest-hapi/issues"
+  },
+  "homepage": "https://github.com/danielrohers/rest-hapi",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "good": "^4.0.2",
+    "good-console": "^2.0.1",
+    "hapi": "^7.5.2",
+    "mongoose": "^3.8.20",
+    "winston": "^0.8.3"
+  }
+}
