@@ -1,4 +1,4 @@
-## Simple restful application with node.js and hapi
+## Simple restful application with [node.js](http://nodejs.org) and [hapi.js](http://hapijs.com)
 
 ### Installing dependencies
 
